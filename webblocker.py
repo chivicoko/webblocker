@@ -1,7 +1,6 @@
 import time
 from datetime import datetime as dt
 
-
 # hosts_temp = r'C:\Users\veecee\Desktop\New system\Dev\app3\hosts'
 hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
 redirect = "127.0.0.1"
